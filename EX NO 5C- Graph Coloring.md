@@ -27,7 +27,7 @@ To write a Java program to determine whether N radio towers can be assigned at m
 
 ```java
 /*
-Program to implement Reverse a String
+Program to implement Graph Coloring
 Developed by: VENKATANATHAN P R
 Register Number: 212223240173
 */
