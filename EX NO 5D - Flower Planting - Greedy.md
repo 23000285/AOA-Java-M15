@@ -1,6 +1,6 @@
 # EX 5D Flower Planting
 
-## DATE: 05-11-2025
+## DATE: 15-11-2025
 
 ## AIM:
 
@@ -27,7 +27,7 @@ A valid assignment is always guaranteed because no garden has more than 3 neighb
 
 ```java
 /*
-Program to implement Reverse a String
+Program to implement Flower Planting
 Developed by: VENKATANATHAN P R
 Register Number: 212223240173
 */
