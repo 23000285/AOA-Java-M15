@@ -29,6 +29,7 @@ To write a Java program to find the **Minimum Spanning Tree (MST)** of a weighte
 
 ```java
 /*
+Program to implement Minimum Spanning Tree
 Developed by: VENKATANATHAN P R
 Register Number: 212223240173
 */
