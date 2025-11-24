@@ -33,7 +33,7 @@ To write a Java program to solve the **0/1 Knapsack problem using the Branch & B
 
 ```java
 /*
-Program to implement Reverse a String
+Program to implement Knapsack Problem
 Developed by: VENKATANATHAN P R
 Register Number: 212223240173
 */
