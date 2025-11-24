@@ -1,6 +1,6 @@
 # EX 5B Topological Sort – Kahn's Algorithm
 
-## DATE: 30-11-2025
+## DATE: 07-11-2025
 
 ## AIM:
 
@@ -30,7 +30,7 @@ The program should detect if a valid release schedule exists or if cyclic depend
 
 ```java
 /*
-Program to implement Reverse a String
+Program to implement Topological Sort
 Developed by: VENKATANATHAN P R
 Register Number: 212223240173
 */
