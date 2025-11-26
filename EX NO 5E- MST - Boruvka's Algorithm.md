@@ -1,6 +1,6 @@
 # EX 5E Minimum Spanning Tree – Borůvka’s Algorithm
 
-## DATE: 21-11-2025
+## DATE: 15-11-2025
 
 ## AIM:
 
